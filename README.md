@@ -10,7 +10,8 @@ Menu and planning for the Sportsball party on 02/07/2016. We have plenty of seat
 
 
 ### Kevin and Rosa
-
+- [ ] Chips
+- [ ] Chili con carne
 
 ### Lance and Corin
 - [ ] Mustard BBQ Sauce
@@ -22,7 +23,6 @@ Menu and planning for the Sportsball party on 02/07/2016. We have plenty of seat
 
 ### Thode
 - [ ] Beer, tell me what or I get what I like
-- [ ] Chips, tell me what or I get what I like
 
 ### Bernardo
 
